@@ -1,6 +1,10 @@
+person ="Jack"
 best_friend = "Nic"
-if best_friend == "Nick"
+good_friend = "Terri"
+if person == best_friend
 puts "best friend"
+elsif person == good_friend
+puts "good friend"
 else
-puts "other than best friend"
+puts "not friend"
 end
